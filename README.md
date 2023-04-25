@@ -34,6 +34,3 @@ The `-c` option specifies the path to the config file, and the `-v` option sets 
 ## License
 
 Sniplex is licensed under the MIT license. See [LICENSE](LICENSE) for more details.
-
-Source: Conversation with Bing, 25/04/2023
-(1) https://www.freecodecamp.org/news/how-to-write-a-good-readme-file. https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/.
